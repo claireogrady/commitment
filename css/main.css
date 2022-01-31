@@ -1,5 +1,7 @@
 body {
-  background-color: #6495ED;
+  background: linear-gradient(to bottom, #6495ED, #87CEFA, #B0C4DE, #D3D3D3);
+	background-size: 100%;
+	background-repeat: no-repeat;
 }
 
 h1 {
