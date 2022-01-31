@@ -20,6 +20,14 @@ h2 {
   margin-top: 150px;
 }
 
+#p1 {
+  color: #6495ED;
+  text-align: center;
+  font-family: 'Fredoka One', cursive;
+  font-size: 100%;
+  margin-top: 150px;
+}
+
 @keyframes blink {
   0% {
     opacity: 0;
