@@ -90,6 +90,8 @@ body {
   border: 3px solid #1E90FF;
   transform: rotate(45deg);
   background-color: #1E90FF;
+  position: relative;
+  animation: mymove2 2s infinite;
 }
 
 
@@ -100,5 +102,5 @@ body {
 
 @keyframes mymove2 {
   0%   {top: 0px;}
-  100% {top: 400px;}
+  100% {top: 200px;}
 }
