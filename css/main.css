@@ -60,6 +60,14 @@ body{
   margin-top: 50px;
 }
 
+#p2 {
+  color: #6495ED;
+  text-align: center;
+  font-family: 'Fredoka One', cursive;
+  font-size: 200%;
+  margin-top: 10px;
+}
+
 #header3 {
   color: #ffffff;
   text-align: center;
