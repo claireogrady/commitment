@@ -79,6 +79,8 @@ body {
   border: 3px solid #1E90FF;
   transform: rotate(45deg);
   background-color: #1E90FF;
+  position: relative;
+  animation: mymove 5s infinite;
 }
 
 .tear2 {
