@@ -65,3 +65,12 @@ body {
 .triangle5 {
 	animation: blink 1.5s infinite;
 }
+
+.tear {
+  width: 50px;
+  height: 50px;
+  border-radius: 0 50% 50% 50%;
+  border: 3px solid black;
+  transform: rotate(45deg);
+  margin-top: 20px;
+}
