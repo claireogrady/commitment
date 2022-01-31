@@ -3,6 +3,7 @@ body{
 	background-size: 100%;
 	background-repeat: no-repeat;
 }
+
 #background2{
 	background:
 	radial-gradient(circle closest-side at 60% 43%, #b7c7f1 26%, rgba(183,199,241,0) 27%),
