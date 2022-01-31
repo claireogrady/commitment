@@ -3,7 +3,6 @@ body{
 	background-size: 100%;
 	background-repeat: no-repeat;
 }
-
 #background2{
 	background:
 	radial-gradient(circle closest-side at 60% 43%, #E6E6FA 26%, rgba(187,0,51,0) 27%),
@@ -90,7 +89,6 @@ body{
   height: 100px;
   border-radius: 0 50% 50% 50%;
   margin-top: 10px;
-  border: 3px solid #1E90FF;
   transform: rotate(45deg);
   background-color: #1E90FF;
   position: relative;
@@ -102,7 +100,6 @@ body{
   height: 100px;
   border-radius: 0 50% 50% 50%;
   margin-top: 90px;
-  border: 3px solid #1E90FF;
   transform: rotate(45deg);
   background-color: #1E90FF;
   position: relative;
