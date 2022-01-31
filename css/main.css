@@ -118,6 +118,7 @@ body{
 
 .material-icons.md-300 { 
 	font-size: 300px; 
+	text-align: center;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
