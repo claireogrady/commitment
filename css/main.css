@@ -28,7 +28,7 @@ body{
 }
 
 #header1 {
-  color: #6495ED;
+  color: #FFFFFF;
   text-align: center;
   font-family: 'Fredoka One', cursive;
   font-size: 300%;
@@ -50,7 +50,6 @@ body{
   font-family: 'Fredoka One', cursive;
   font-size: 300%;
   margin-top: 50px;
-  margin-right: 50px;
 }
 
 #p1 {
@@ -59,6 +58,14 @@ body{
   font-family: 'Fredoka One', cursive;
   font-size: 200%;
   margin-top: 50px;
+}
+
+#header3 {
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Rubik Beastly', cursive;
+  font-size: 300%;
+  margin-bottom: 150px;
 }
 
 @keyframes blink {
