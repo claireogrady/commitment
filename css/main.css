@@ -1,5 +1,5 @@
 body{
-	background: linear-gradient(to bottom, #6495ED 0%, #E6E6FA 100%);
+	background: linear-gradient(to bottom, #6495ED 0%, #E6E6FA 50%, #FFFFFF 100%);
 	background-size: 100%;
 	background-repeat: no-repeat;
 }
@@ -22,7 +22,7 @@ body{
 }
 
 #header1 {
-  color: white;
+  color: #6495ED;
   text-align: center;
   font-family: 'Fredoka One', cursive;
   font-size: 300%;
