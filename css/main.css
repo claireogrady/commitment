@@ -97,10 +97,10 @@ body {
 
 @keyframes mymove {
   0%   {top: 0px;}
-  100% {top: 400px;}
+  100% {top: 300px;}
 }
 
 @keyframes mymove2 {
   0%   {top: 0px;}
-  100% {top: 200px;}
+  100% {top: 100px;}
 }
