@@ -59,6 +59,8 @@ body {
   border-radius: 0 50% 50% 50%;
   border: 3px solid #1E90FF;
   transform: rotate(45deg);
+  margin-left: 10px;
+  margin-right: auto;
   margin-top: 150px;
   background-color: #1E90FF;
 }
