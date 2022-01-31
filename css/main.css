@@ -1,7 +1,7 @@
 .background1{
 	background: linear-gradient(to bottom, #6495ED 0%, #E6E6FA 100%);
 	background-size: 100%;
-	background-repeat: repeat;
+	background-repeat: no-repeat;
 }
 
 #header1 {
