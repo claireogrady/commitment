@@ -68,7 +68,6 @@ body {
   justify-content: space-evenly;
 }
 
-
 .tear1 {
   width: 100px;
   height: 100px;
@@ -95,6 +94,11 @@ body {
 
 
 @keyframes mymove {
+  0%   {top: 0px;}
+  100% {top: 400px;}
+}
+
+@keyframes mymove2 {
   0%   {top: 0px;}
   100% {top: 400px;}
 }
