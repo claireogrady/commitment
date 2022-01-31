@@ -37,6 +37,15 @@ body{
   margin-top: 150px;
 }
 
+#header3 {
+  color:#6495ED;
+  text-align: center;
+  font-family: 'Fredoka One', cursive;
+  font-size: 300%;
+  margin-top: 50px;
+  margin-right: 50px;
+}
+
 #p1 {
   color: #6495ED;
   text-align: center;
