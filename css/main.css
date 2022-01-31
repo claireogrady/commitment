@@ -90,7 +90,7 @@ body{
   border-radius: 0 50% 50% 50%;
   margin-top: 10px;
   transform: rotate(45deg);
-  background-color: #1E90FF;
+  background-color: #808080;
   position: relative;
   animation: mymove 2s infinite;
 }
@@ -101,7 +101,7 @@ body{
   border-radius: 0 50% 50% 50%;
   margin-top: 90px;
   transform: rotate(45deg);
-  background-color: #1E90FF;
+  background-color: #808080;
   position: relative;
   animation: mymove2 2s infinite;
 }
