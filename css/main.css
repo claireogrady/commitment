@@ -21,6 +21,12 @@ body{
 	background-size:100px 100px;
 }
 
+#background3 {
+	background: linear-gradient(to bottom, #b7c7f1 0%, #FFFFFF 100%);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
 #header1 {
   color: #6495ED;
   text-align: center;
