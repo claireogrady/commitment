@@ -39,9 +39,21 @@ h2 {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 150px;
-	animation: blink 5s infinite;
+	animation: blink 4s infinite;
 }
 
 .triangle2 {
-	animation: blink 4s infinite;
+	animation: blink 3s infinite;
+}
+
+.triangle3 {
+	animation: blink 2s infinite;
+}
+
+.triangle4 {
+	animation: blink 1s infinite;
+}
+
+.triangle5 {
+	animation: blink 0.5s infinite;
 }
