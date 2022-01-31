@@ -28,8 +28,4 @@ h1 {
 	border-left: 125px solid transparent;
 	border-right: 125px solid transparent;
 	border-top:150px solid #DCDCDC;
-	position: fixed;
-  	top: 50%;
-  	left: 50%;
-  	transform: translate(-50%, -50%);
 }
