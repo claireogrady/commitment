@@ -74,7 +74,7 @@ body {
   border-radius: 0 50% 50% 50%;
   margin-right: 100px;
   margin-left: 100px;
-  margin-top: 100px;
+  margin-top: 10px;
   border: 3px solid #1E90FF;
   transform: rotate(45deg);
   background-color: #1E90FF;
@@ -86,7 +86,7 @@ body {
   width: 100px;
   height: 100px;
   border-radius: 0 50% 50% 50%;
-  margin-top: 100px;
+  margin-top: 90px;
   border: 3px solid #1E90FF;
   transform: rotate(45deg);
   background-color: #1E90FF;
