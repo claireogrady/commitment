@@ -99,6 +99,7 @@ body{
   height: 100px;
   border-radius: 0 50% 50% 50%;
   margin-top: 10px;
+  margin-bottom: 50px;
   transform: rotate(45deg);
   background-color: #808080;
   position: relative;
@@ -110,6 +111,7 @@ body{
   height: 100px;
   border-radius: 0 50% 50% 50%;
   margin-top: 90px;
+  margin-bottom: 50px;
   transform: rotate(45deg);
   background-color: #808080;
   position: relative;
