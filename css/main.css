@@ -106,7 +106,6 @@ body{
   animation: mymove2 2s infinite;
 }
 
-
 @keyframes mymove {
   0%   {top: 0px;}
   100% {top: 300px;}
