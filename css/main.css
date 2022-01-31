@@ -93,7 +93,6 @@ body{
   background-color: #1E90FF;
   position: relative;
   animation: mymove 2s infinite;
-  margin-bottom: 100px;
 }
 
 .tear2 {
@@ -105,7 +104,6 @@ body{
   background-color: #1E90FF;
   position: relative;
   animation: mymove2 2s infinite;
-  margin-bottom: 100px;
 }
 
 
